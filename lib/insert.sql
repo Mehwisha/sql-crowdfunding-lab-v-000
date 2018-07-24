@@ -1,5 +1,5 @@
 INSERT into projects(id, title, category, Funding_goal, Start_date, end_date) values (001,'PMO','Music', '$1000', 05/29/2018, 06/05/2018);
-INSERT into projects(id, title, category, Funding_goal, Start_date, end_date) values (002,'programming','Books', '$100', 05/29/2017, 06/05/2017);
+INSERT into projects(id, title, category, Funding_goal, Start_date, end_date) values (002,'programming','books', '$100', 05/29/2017, 06/05/2017);
 INSERT into projects(id, title, category, Funding_goal, Start_date, end_date) values (003,'DEV','Drama', '$9000', 07/29/2018, 08/05/2018);
 INSERT into projects(id, title, category, Funding_goal, Start_date, end_date) values (004,'PROD','Ball', '$500', 08/29/2018, 09/05/2018);
 INSERT into projects(id, title, category, Funding_goal, Start_date, end_date) values (005,'FOOD','Caps', '$300', 09/29/2018, 10/05/2018);
